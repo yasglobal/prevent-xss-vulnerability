@@ -2,6 +2,17 @@
 
 This file contains only old changelog. See readme.txt for newer versions.
 
+= 2.0.0 - Jul 14, 21 =
+
+  * Bug
+    * [Unable to execute bulk actions of WooCommerce orders when this plugin is enabled](https://wordpress.org/support/topic/unable-to-execute-bulk-actions-of-woocommerce-orders-when-this-plugin-is-enabled/)
+    * [Bulk actions dont work (ie bulk delete pages, images)](https://wordpress.org/support/topic/bulk-actions-dont-work-ie-bulk-delete-pages-images/)
+    * [Facing conflict issue while perform bulk delete option on post](https://wordpress.org/support/topic/facing-conflict-issue-while-perform-bulk-delete-option-on-post/)
+
+  * Enhancements
+		* [Include other/extra parameters](https://github.com/samiahmedsiddiqui/prevent-xss-vulnerability/issues/3)
+		* Fixed WPCS issues
+
 = 1.0.0 - Aug 24, 20 =
 
   * Enhancements
